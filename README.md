@@ -49,3 +49,5 @@
 ![img1](https://github.com/shawakash1992/Airbnb/blob/main/airbnb%20image.png)
 
 ## Importing the necessary libraries
+![img1](https://github.com/shawakash1992/Airbnb/blob/main/airb%20click.png)
+
