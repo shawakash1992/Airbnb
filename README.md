@@ -53,3 +53,6 @@
 
 # Load Airbnb Dataset
 
+Airbnb_df=pd.read_csv('/content/Airbnb NYC 2019 (1).csv')
+Airbnb_df
+
