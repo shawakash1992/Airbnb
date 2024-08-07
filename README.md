@@ -53,5 +53,6 @@
 
 # Load Airbnb Dataset
 
-https://colab.research.google.com/drive/1Oib3Qa8O-b2V4RzobDVP5vDKrnKiEk1_#scrollTo=xa5NJQdAs_Ck&line=1&uniqifier=1
+
+
 
