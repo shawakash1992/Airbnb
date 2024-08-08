@@ -66,7 +66,7 @@
 *This dataset contains information about Airbnb bookings in New York City in 2019. By analyzing this data, you may be able to understand the trends and patterns of Airbnb use in the NYC.
 
  ![img1](https://github.com/shawakash1992/Airbnb/blob/main/booking%20image.png)
-# UNDERSTAND THE GIVEN VARIABLES
+# Understand the given variables
 
 Listing_id :- This is a unique identifier for each listing in the dataset.
 
