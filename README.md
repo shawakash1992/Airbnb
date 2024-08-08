@@ -95,6 +95,7 @@ Total_reviews :- This is the total number of reviews that the listing has receiv
 Reviews_per_month :- This is the average number of reviews that the listing receives per month.
 
 Host_listings_count :- This is the total number of listings that the host has on Airbnb.
-
+ 
 Availability_365 :- This is the number of days in the next 365 days that the listing is available for booking.
 
+# Data Exploration and Data Cleaning
