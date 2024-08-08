@@ -53,8 +53,7 @@
 
 
 # Load Airbnb Dataset
-![img1](https://github.com/shawakash1992/Airbnb/blob/main/airbnb%20click1.png)
-![img1](https://github.com/shawakash1992/Airbnb/blob/main/airbnb%20click2.jpg)
+![img1](https://github.com/shawakash1992/Airbnb/blob/main/airbnb%20click%203.png)
 
 # About the Dataset – Airbnb Bookings
 
