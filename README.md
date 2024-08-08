@@ -56,7 +56,8 @@
 ![img1](https://github.com/shawakash1992/Airbnb/blob/main/airbnb%20click1.png)
 ![img1](https://github.com/shawakash1992/Airbnb/blob/main/airbnb%20click2.jpg)
 
-#About the Dataset – Airbnb Bookings
+# About the Dataset – Airbnb Bookings
+
 *This Airbnb dataset contains nearly 49,000 observations from New York , with 16 columns of data.
 
 *The Data includes both categorical and numeric values, providing a diverse range of information about the listings.
