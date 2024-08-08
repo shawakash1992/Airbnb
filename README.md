@@ -56,6 +56,15 @@
 ![img1](https://github.com/shawakash1992/Airbnb/blob/main/airbnb%20click1.png)
 ![img1](https://github.com/shawakash1992/Airbnb/blob/main/airbnb%20click2.jpg)
 
+#About the Dataset – Airbnb Bookings
+*This Airbnb dataset contains nearly 49,000 observations from New York , with 16 columns of data.
+
+*The Data includes both categorical and numeric values, providing a diverse range of information about the listings.
+
+*This Dataset may be useful for analyzing trends and patterns in the Airbnb market in New York and also gain insights into the preferences and behavior of Airbnb users in the area.
+
+*This dataset contains information about Airbnb bookings in New York City in 2019. By analyzing this data, you may be able to understand the trends and patterns of Airbnb use in the NYC.
+
 
 
 
