@@ -99,4 +99,5 @@ Host_listings_count :- This is the total number of listings that the host has on
 Availability_365 :- This is the number of days in the next 365 days that the listing is available for booking.
 
 # Data Exploration and Data Cleaning
-https://github.com/shawakash1992/Airbnb/blob/main/a1.png
+![img1](https://github.com/shawakash1992/Airbnb/blob/main/a1.png)
+
